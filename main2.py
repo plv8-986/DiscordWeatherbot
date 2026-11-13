@@ -40,4 +40,4 @@ async def weather(ctx,*,city:str):
     await ctx.send(weather_info)
     speak(weather_info)
 
-bot.run("put you token here gng")
+bot.run("put your token here gng")
